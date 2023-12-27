@@ -19,9 +19,9 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.neural_network import MLPClassifier
-from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import recall_score, precision_score, accuracy_score, f1_score, confusion_matrix
+from sklearn.metrics import recall_score, precision_score, accuracy_score, f1_score
 from sklearn.model_selection import cross_val_predict, cross_val_score, StratifiedKFold
 
 import numpy as np
@@ -63,7 +63,7 @@ As seguintes técnicas de amostragem de dados foram utilizadas para preparar o c
 
 ### Implementação:
 
-Python com pacote do scikit-learn (sklearn), que oferece uma ampla variedade de algoritmos de Machine Learning.
+Python com pacote do scikit-learn (sklearn), com utilização de pipeline e gridsearchcv para escolha dos melhores hiperparâmetros.
 
 ### Avaliação e Comparação dos Modelos:
 

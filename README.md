@@ -1,5 +1,5 @@
 # Stroke Prediction
-O objetivo deste projeto é aplicar técnicas de Machine Learning para determinar se um indivíduo terá ou não AVC. 
+O objetivo deste projeto é aplicar técnicas de Machine Learning para determinar se um indivíduo terá ou não AVC, sem a utilização de métodos de boosting ou stacking.
 
 ## ⚙️Preparação do Ambiente
 

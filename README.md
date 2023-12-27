@@ -3,13 +3,13 @@ O objetivo deste projeto é aplicar técnicas de Machine Learning para determina
 
 ## ⚙️Preparação do Ambiente
 
-### **Conjunto de dados**
+### Conjunto de dados
 
 *Disponíveel no diretório `datasets`.*
 
 Dataset obtido em: [https://www.kaggle.com/competitions/playground-series-s3e2/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e2/data?select=train.csv)
 
-### **Bibliotecas**
+### Bibliotecas
 
 Este notebook foi desenvolvido em Jupiter e utiliza as bibliotecas abaixo:
 
@@ -29,14 +29,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
  ```
-
-Para instalá-las, caso não estejam, utilize o comando:
-
-```sh
- pip install -nome da biblioteca-
-```
-
-<br>
 
 ## ⚒️ Metodologia
 
